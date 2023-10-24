@@ -1,9 +1,9 @@
 # Prompt
-Using ChatGPT and persona prompt style to create a simple Pytorch application that a user can implement with zero coding experience. The genesis of the project was to take a tool extremely complex, a machine learning based language and using Prompt Engineering and Openai/ChatGPT provide an easy guide and explanation with immediate usability. 
+Using ChatGPT and persona prompt style to create a simple Pytorch application that a user can implement with zero coding experience. The genesis of the project was to take an extremely complex tool such as Pytorch (a machine learning based language ), and using Prompt Engineering and Openai/ChatGPT provide an easy guide and explanation with immediate usability. 
 
-Prompt Engineering is the idea of training an AI model from inputs to produce certain desired outputs (Taken from Prompt Engineering for AI, Coursera. 
+Prompt Engineering is the idea of training an AI model from inputs to produce certain desired outputs. (Taken from Prompt Engineering for AI, Coursera). 
 
-Pytorch is a machine learning based language and the easiest to use and perform tasks with instead of Keras, Tensorflow and even ONNX, as Pytorch is more of a scripting style language. 
+Machine is still in its infancy, usually requrining multiple years of studying and advanced degrees in order to contribute at the macro, company or research level. I wanted to take Pytorch which is a machine learning based language but the easiest to use and perform tasks with instead of Keras, Tensorflow and even ONNX, as Pytorch is more of a scripting style language. 
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
