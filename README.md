@@ -1,5 +1,7 @@
 # Prompt
-Using ChatGPT and persona prompt style to create a simple Pytorch application that a user can implement with zero coding experience. The genesis of the project was to take a complex tool such as Pytorch (a machine learning based language ), and using Prompt Engineering and Openai/ChatGPT provide an easy guide and explanation with immediate usability. 
+Using ChatGPT and persona prompt style to create a simple Pytorch application that a user can implement with zero coding experience. From learning to access the framework to install the package to actual execution of the function. The genesis of the project was to take a complex tool such as Pytorch (a machine learning based language ), and using Prompt Engineering and Openai/ChatGPT provide an easy guide and explanation with immediate usability. There are so many unoconventional ideas that never get implemented due to the confines of a system. AI can be that bridge and essentially with input teach itself a task based off the suggestion of the user. 
+
+The next phase of this process will be attempting to create a desktop page Flask. This will then based off a user input say turn coffee maker on at x time, this sends a command to ChatGPT to translate and execute the code in Pytorch which is then sent to the Arduino circuit and activates a motor (the notion of motor and Arduino Circuit from project Auto Coffee). This idea is still in its infacy, though I will be submitting and expanding on this idea if I am accepted into backdropbuild competition).  
 
 Prompt Engineering is the idea of training an AI model from inputs to produce certain desired outputs. (Taken from Prompt Engineering for AI, Coursera). 
 
