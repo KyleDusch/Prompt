@@ -1,5 +1,5 @@
 #installation of pytorch
-#pip install torch torchvision
+pip install torch torchvision
 
 
 import torch
